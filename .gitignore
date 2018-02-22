@@ -5,3 +5,6 @@ db.json
 node_modules/
 public/
 .deploy*/
+themes/hexo-theme-icarus/
+themes/hexo-theme-ztopic/
+themes/spfk/
